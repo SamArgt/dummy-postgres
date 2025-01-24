@@ -17,7 +17,7 @@ docker compose up --build
 ## Connecting to the Database
 
 - **Database Name:** chmosec-db
-- **Password:** mysecretpassword
+- **Password:** pwd
 - **Port:** 5432
 - **Host:** localhost
 
